@@ -36,7 +36,7 @@
 ## 🐍 Sistema em execução (Cobrinha)
 
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/pauloduarty/pauloduarty/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ## 📊 Status do Sistema
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pauloduarty&show_icons=true&theme=chartreuse-dark" />
 </p>
 
 ---
