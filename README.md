@@ -7,9 +7,8 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200px">
+  <img src="https://github.com/pauloduarty/pauloduarty/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 </p>
-
 ---
 
 ## 🧠 Sobre mim
