@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: pauloduarty
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Commit files
+        run: |
+          git config --global user.name "pauloduarty"
+          git config --global user.email "paulo@email.com"
+          git clone https://github.com/pauloduarty/pauloduarty.git repo
+          cd repo
+          git checkout -b output || git checkout output
+          cp -r ../dist/* .
+          git add .
+          git commit -m "update snake" || echo "no changes"
+          git push origin output
