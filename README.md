@@ -1,9 +1,4 @@
 <h1 align="center">💻 Paulo Ricardo | Dev em Formação</h1>
-
-<p align="center">
-  <img src="https://github.com/pauloduarty/pauloduarty/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 <p align="center">
