@@ -25,15 +25,6 @@
   <img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge" />
 </p>
 
----
-
-## 🐍 Sistema em execução (Cobrinha)
-
-<p align="center">
-  <img src="https://github.com/pauloduarty/pauloduarty/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📊 Status do Sistema
 
