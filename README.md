@@ -1,7 +1,7 @@
 <h1 align="center">💻 Paulo Ricardo | Dev em Formação</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Análise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Web;Python+Developer;Criando+Sistemas+com+IA;Bem-vindo+ao+meu+perfil" />
+  <img src="https://github.com/pauloduarty/pauloduarty/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
