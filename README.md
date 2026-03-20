@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Formação;Análise+e+Desenvolvimento+de+Sistemas;Web+Developer;Python+Developer;Criando+soluções+com+IA" />
 </p>
----
 
 ## 🚀 Sobre mim
 
