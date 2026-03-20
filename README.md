@@ -1,30 +1,49 @@
-<h1 align="center">⚠️ SYSTEM: PAULO_RICARDO</h1>
+<h1 align="center">Paulo Ricardo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=18&center=true&vCenter=true&width=600&lines=Inicializando+sistema...;Conectando+ao+servidor...;Acesso+permitido;Dev+em+formação;Python+|+Web+|+IA" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Formação;Análise+e+Desenvolvimento+de+Sistemas;Web+Developer;Python+Developer;Criando+soluções+com+IA" />
 </p>
 
 ---
 
-## 🟢 SYSTEM SCAN
+## 💻 Painel do Sistema
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
 </p>
 
 ---
 
-## 🖥️ TERMINAL
+## 🚀 Sobre mim
 
-```bash
-> boot sequence initialized...
-> loading modules...
-> authentication: success
+<p>
+💻 <b>Estudante de Análise e Desenvolvimento de Sistemas</b><br>
+⚡ <b>Focado em desenvolvimento web moderno</b><br>
+🤖 <b>Utilizando Inteligência Artificial para produtividade</b><br>
+🧠 <b>Aprendendo e evoluindo todos os dias</b><br>
+</p>
 
-> user: paulo_ricardo
-> role: developer
-> system: active
-> focus: web + python + supabase
+---
 
-> running AI integration...
-> status: ONLINE
+## 🧩 Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pauloduarty&show_icons=true&theme=chartreuse-dark" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
+</p>
