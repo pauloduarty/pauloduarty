@@ -11,12 +11,7 @@
 
 ---
 
-# 🟢 💻 ANIMAÇÃO COM SEU NOME (EFEITO HACKER)
 
-```html
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=18&center=true&vCenter=true&width=700&lines=Paulo+Ricardo+Initializing...;Loading+skills...;HTML+CSS+JavaScript+Python;Connecting+to+database...;System+Online" />
-</p>
 
 ---
 
