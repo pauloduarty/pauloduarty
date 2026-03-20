@@ -1,7 +1,7 @@
 <h1 align="center">Paulo Ricardo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+em+Formação;Análise+e+Desenvolvimento+de+Sistemas;Web+Developer;Python+Developer;Criando+soluções+com+IA" />
+  <img src="https://img.shields.io/badge/👨‍💻%20PAULO%20RICARDO-00FF00?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
 ---
