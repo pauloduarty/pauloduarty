@@ -6,17 +6,6 @@
 
 ---
 
-## 💻 Painel do Sistema
-
-
----
-<p align="center">
-  <img src="https://media.giphy.com/media/1dIo6kDOPMzsnMOJTj/giphy.gif" width="500"/>
-</p>
-
-
----
-
 ## 🚀 Sobre mim
 
 <p>
