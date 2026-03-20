@@ -8,8 +8,10 @@
 
 ## 💻 Painel do Sistema
 
+## 💻 Código em execução
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="600"/>
 </p>
 
 ---
