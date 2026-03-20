@@ -1,5 +1,5 @@
 <h1 align="center">
-  Dev Paulo Ricardo
+  Dev Paulo Duarty
 </h1>
 
 <p align="center">
