@@ -36,7 +36,10 @@
 
 ## 📊 Estatísticas
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&cache_seconds=1800"/>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&cache_seconds=86400"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&cache_seconds=86400"/>
+</p>
 
 ---
 
