@@ -37,8 +37,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&cache_seconds=86400"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&cache_seconds=86400"/>
+  <img src="https://github.com/pauloduarty/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
