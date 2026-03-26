@@ -36,8 +36,18 @@
 
 ## 📊 Estatísticas
 
+<h3 align="center">🎮 Level do Dev</h3>
+
 <p align="center">
-  <img src="https://github.com/pauloduarty/output/github-contribution-grid-snake.svg">
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ 0%<br>
+🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛ 10%<br>
+🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛ 40%<br>
+🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛ 70%<br>
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100%
+</p>
+
+<p align="center">
+🚀 Evoluindo no Front-End...
 </p>
 
 ---
