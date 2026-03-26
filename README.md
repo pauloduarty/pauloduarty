@@ -1,6 +1,6 @@
 <h1 align="center">Dev Paulo Duarty</h1>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Front-End+Developer;Análise+e+Desenvolvimento+de+Sistemas;Criando+interfaces+modernas;JavaScript+e+React;Evoluindo+todos+os+dias" />
 </p>
 
