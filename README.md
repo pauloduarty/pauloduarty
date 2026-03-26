@@ -8,9 +8,9 @@
 
 ## 🚀 Sobre mim
 
-<p align="center">
+<p>
 💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🎯 Focado em desenvolvimento web Front-End <br>
+🎯 Focado em desenvolvimento Front-End <br>
 ⚡ Criando interfaces modernas, rápidas e responsivas <br>
 🧠 Evoluindo todos os dias com novas tecnologias <br>
 </p>
